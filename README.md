@@ -13,6 +13,10 @@ An interactive Java application that challenges your vocabulary skills! The play
 - 📊 Final score display with personalized feedback
 
 ---
+## 🎥 Game Demo
+
+📽️ [Watch the demo video](https://github.com/YomnaJL/AdvancedJava-WordGame-ScoringSystem/blob/main/Enregistrement1-ezgif.com-video-to-gif-converter.gif)
+
 
 ## 🎯 Educational Objectives
 
@@ -63,10 +67,6 @@ After the 30 validation buttons are clicked, one of the following messages is sh
   → _"Game over. Your score is X. Try again to improve!"_
 
 ---
-
-## 🎥 Game Demo
-
-📽️ [Watch the demo video](https://github.com/YomnaJL/AdvancedJava-WordGame-ScoringSystem/blob/main/Enregistrement1-ezgif.com-video-to-gif-converter.mp4)
 
 
 ## 🧑‍💻 Author
