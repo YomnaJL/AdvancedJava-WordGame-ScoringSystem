@@ -14,8 +14,7 @@ An interactive Java application that challenges your vocabulary skills! The play
 
 ---
 ## 🎥 Game Demo
-
-📽️ [Watch the demo video](https://github.com/YomnaJL/AdvancedJava-WordGame-ScoringSystem/blob/main/Enregistrement1-ezgif.com-video-to-gif-converter.gif)
+[![Watch the demo](https://github.com/YomnaJL/AdvancedJava-WordGame-ScoringSystem/blob/main/Enregistrement1-ezgif.com-video-to-gif-converter.gif)]
 
 
 ## 🎯 Educational Objectives
