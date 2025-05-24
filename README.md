@@ -1,4 +1,4 @@
-# 🎮 Word Game – AAdvancedJava-WordGame-ScoringSystem
+# 🎮 Word Game – AdvancedJava-WordGame-ScoringSystem
 
 An interactive Java application that challenges your vocabulary skills! The player completes word panels, each contributing to a final score out of 20. The application evaluates performance dynamically and displays a custom final message based on the score.
 
@@ -66,7 +66,7 @@ After the 30 validation buttons are clicked, one of the following messages is sh
 
 ## 🎥 Game Demo
 
-![Demo du dashboard](https://github.com/YomnaJL/AdvancedJava-WordGame-ScoringSystem/blob/main/Enregistrement1-ezgif.com-video-to-gif-converter.mp4)
+📽️ [Watch the demo video](https://github.com/YomnaJL/AdvancedJava-WordGame-ScoringSystem/blob/main/Enregistrement1-ezgif.com-video-to-gif-converter.mp4)
 
 
 ## 🧑‍💻 Author
