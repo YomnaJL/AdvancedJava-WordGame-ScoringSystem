@@ -66,8 +66,7 @@ After the 30 validation buttons are clicked, one of the following messages is sh
 
 ## 🎥 Game Demo
 
-🎥 [Click here to watch the demo video](https://github.com/YomnaJL/AdvancedJava-WordGame-ScoringSystem/blob/main/Enregistrement1-ezgif.com-video-to-gif-converter.mp4)
-
+![Demo du dashboard](https://github.com/YomnaJL/AdvancedJava-WordGame-ScoringSystem/blob/main/Enregistrement1-ezgif.com-video-to-gif-converter.mp4)
 
 
 ## 🧑‍💻 Author
